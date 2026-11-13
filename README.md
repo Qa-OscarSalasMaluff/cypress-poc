@@ -10,7 +10,6 @@ Este repositorio contiene una Prueba de Concepto (PoC) de automatización de pru
 - [Instalación](#-instalación)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Ejecución de Pruebas](#-ejecución-de-pruebas)
-- [Configuración](#-configuración)
 - [Autor](#-autor)
 
 ---
