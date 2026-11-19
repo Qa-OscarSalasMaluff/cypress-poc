@@ -18,5 +18,4 @@
 
 - Node.js and npm project initialization.
 - Cypress installation and configuration.
-- ESLint configuration for code quality.
 - Git repository initialization.
